@@ -144,8 +144,8 @@ Please Specify the **configuration** about the benchmark, the index advisor, and
 - **Benchmark:** set the vocabulary (already provided) to generate workloads of *Query Perturbation*
 
 - **Index Advisor:** 
-  - set the configurations for the **heuristic-based** index advisors at `/configuration_loader/heu_run_conf`
-  - set the configurations for the **learning-based** index advisors at `/configuration_loader/rl_run_conf`
+  - set the configurations for the **heuristic-based** index advisors at `/configuration_loader/index_advisor/heu_run_conf`
+  - set the configurations for the **learning-based** index advisors at `/configuration_loader/index_advisor/rl_run_conf`
 
 | Parameter       | Description                                                  |
   | --------------- | ------------------------------------------------------------ |
